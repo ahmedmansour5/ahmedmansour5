@@ -26,7 +26,7 @@
 
 ## 🌟 Highlights
 
-- 🏅 [80+ Digital Badges on Credly](https://www.credly.com/users/ahmed_mansour/badges)  
+- 🏅 [90+ Digital Badges on Credly](https://www.credly.com/users/ahmed_mansour/badges)  
 - 🚀 **Open Source Contributions**: Actively contributing to projects that improve automation workflows and cloud best practices. 
 
 ---
